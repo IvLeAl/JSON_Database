@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSON_Database.iml" filepath="$PROJECT_DIR$/.idea/modules/JSON_Database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/JSON_Database.Problems-Direction.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/JSON_Database.Problems-Direction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/JSON_Database.Problems-Direction.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/JSON_Database.Problems-Direction.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Direction/JSON_Database.Problems-Direction.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Direction/JSON_Database.Problems-Direction.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/JSON_Database.Problems-Test_learners.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/JSON_Database.Problems-Test_learners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/JSON_Database.Problems-Test_learners.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/JSON_Database.Problems-Test_learners.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/JSON_Database.Problems-Test_learners.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/JSON_Database.Problems-Test_learners.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JSON_Database.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JSON_Database.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JSON_Database.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JSON_Database.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/JSON_Database.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/JSON_Database.util.test.iml" />
+    </modules>
+  </component>
+</project>
