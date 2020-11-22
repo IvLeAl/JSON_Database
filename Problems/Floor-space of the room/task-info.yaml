@@ -10,5 +10,16 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/2300#comment
-status: Unchecked
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:22: error: variable a is already defined in method main(String[])
+                    double a = scanner.nextDouble();
+                           ^
+    Main.java:23: error: variable b is already defined in method main(String[])
+                    double b = scanner.nextDouble();
+                           ^
+    2 errors
+  time: Sat, 21 Nov 2020 07:09:39 UTC
 record: -1
