@@ -1,0 +1,39 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    public class Main {
+
+        public static double divide(long a, long b) {
+            // write your code here
+        }
+
+        /* Do not change code below */
+        public static void main(String[] args) {
+            final Scanner scanner = new Scanner(System.in);
+            final long a = scanner.nextLong();
+            final long b = scanner.nextLong();
+            System.out.println(divide(a, b));
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10991#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 4. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    500000000000 200000000000
+    Correct output:
+    2.5
+
+    Your code output:
+    2.0
+  time: Mon, 23 Nov 2020 20:24:41 UTC
+record: -1
