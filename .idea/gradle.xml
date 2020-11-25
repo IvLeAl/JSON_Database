@@ -12,10 +12,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Problems/Convert a date" />
             <option value="$PROJECT_DIR$/Problems/Create a full name" />
             <option value="$PROJECT_DIR$/Problems/Decompose a math function" />
             <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Division" />
+            <option value="$PROJECT_DIR$/Problems/Double characters" />
             <option value="$PROJECT_DIR$/Problems/Fixing the main method" />
             <option value="$PROJECT_DIR$/Problems/Fixing the main method (1)" />
             <option value="$PROJECT_DIR$/Problems/Floor-space of the room" />
@@ -23,6 +25,7 @@
             <option value="$PROJECT_DIR$/Problems/Print  Hello, Java_" />
             <option value="$PROJECT_DIR$/Problems/Print  We are robots_" />
             <option value="$PROJECT_DIR$/Problems/Test learners" />
+            <option value="$PROJECT_DIR$/Problems/The lucky ticket" />
             <option value="$PROJECT_DIR$/Problems/The sign of a number" />
             <option value="$PROJECT_DIR$/util" />
           </set>
