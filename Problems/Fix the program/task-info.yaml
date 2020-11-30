@@ -9,5 +9,9 @@ files:
     \ \n    }\n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/3750#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/3750#comment">JetBrains
+    Academy</a></html>
+  time: Thu, 26 Nov 2020 22:01:13 UTC
 record: -1
