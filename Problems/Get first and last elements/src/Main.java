@@ -2,7 +2,10 @@ import java.util.*;
 
 public class Main {
 
-    // write a method here
+   public static int[] getFirstAndLast(int... array) {
+      array[0], array[array.length - 1];
+      return ;
+   }
 
     /* Do not change code below */
     public static void main(String[] args) {
