@@ -1,0 +1,33 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.io.BufferedReader;
+    import java.io.InputStreamReader;
+
+    class Main {
+        public static void main(String[] args) throws Exception {
+            BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+            // start coding here
+            reader.close();
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9099#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #2 of 4. Wrong answer
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    between   us  several   space characters
+    Correct output:
+    5
+
+    Your code output:
+    10
+  time: Thu, 18 Mar 2021 08:43:24 UTC
+record: -1
