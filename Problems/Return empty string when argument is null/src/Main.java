@@ -5,6 +5,7 @@ public class Main {
 
     /* Fix this method */
     public static String toUpperCase(String str) {
+        if ( )
         return str.toUpperCase(Locale.ENGLISH);
     }
 
