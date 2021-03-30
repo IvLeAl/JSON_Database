@@ -6,10 +6,10 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         String words = scanner.nextLine();
         String[] parts = words.split(" ");
-        S
+
 
         for (int i = 0;i < parts.length; i++) {
-
+            parts[i] = [i + i];
         }
 
 

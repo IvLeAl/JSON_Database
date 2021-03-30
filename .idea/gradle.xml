@@ -71,6 +71,13 @@
             <option value="$PROJECT_DIR$/Problems/Throw a checked exception" />
             <option value="$PROJECT_DIR$/Problems/Time" />
             <option value="$PROJECT_DIR$/Problems/User" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Publications" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Saying animals" />
+            <option value="$PROJECT_DIR$/Topics/Hiding and overriding/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
