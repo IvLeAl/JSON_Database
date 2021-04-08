@@ -16,7 +16,7 @@ class Cat {
 
     public static int getNumberOfCats(int counter) {
         // implement the static method
+            
 
-        return counter += 1;
     }
 }
